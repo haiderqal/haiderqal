@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ I graduated from CUNY York College with a Bachelor's of Computer Science Degree.<br>🎯 I learn new technologies and learn tools everyday.<br>🎲 A fun fact is i love to swim and workout at the gym.</p>
+- <p align="left">✨ I graduated from CUNY York College with a Bachelor's of Computer Science Degree.
+  
+- 🎯 I learn new technologies and learn tools everyday.
+
+- 🎲 A fun fact is i love to swim and workout at the gym.</p>
 
 ###
 
@@ -18,15 +22,15 @@
 
 ###
 
-JobsHunter: All software engineer jobs on the internet in last 24 hours delivered to your inbox.
+- JobsHunter: All software engineer jobs on the internet in last 24 hours delivered to your inbox.
 
 ###
 
-[Beach Guide App](http://haiderqal.com): Beach safety app designed to give you real time updates to take precaution before you go.
+- [Beach Guide App](http://haiderqal.com): Beach safety app designed to give you real time updates to take precaution before you go.
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I use these Technologies</h2>
 
 ###
 
